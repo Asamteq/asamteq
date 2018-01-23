@@ -1,0 +1,15 @@
+.line{
+	height:10px;
+	background-color:#0275d8;
+}
+.nav.navbar-inverse.nav-color{
+	
+	background:-webkit-linear-gradient(#283048,#414345);
+}
+h1.heading-style{
+	color:#0275d8!important;
+	
+}
+.color{
+	color:#0275d8;
+}

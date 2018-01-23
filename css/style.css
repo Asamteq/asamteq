@@ -1,0 +1,16 @@
+#color{
+	background:#282828;
+	height:100vh;
+	color:#fff;
+}
+#main-menu li a{
+	color:#fff;
+}
+#main-menu li a:hover{
+		background-color:#337ab7;
+		color:white;
+}
+#back-color{
+	background-color:red;
+	
+}
